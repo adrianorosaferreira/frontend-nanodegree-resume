@@ -241,8 +241,9 @@ var education = {
 bio.displayHeader();
 work.display();
 education.display();
-projects.display();
+
 bio.displayFooter();
+projects.display();
 
 $("#mapDiv").append(googleMap);
 
