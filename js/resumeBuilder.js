@@ -190,7 +190,7 @@ var education = {
 		{ 
 			"title" : "Nanodegree Development Web Front-End", 
 			"school" : "Udacity", 
-			"dates" : "2017 - Currently",
+			"dates" : "Mar 2017 - Dec 2017",
 			"url" : "https://br.udacity.com/course/front-end-web-developer-nanodegree--nd001/"
 		},{ 
 			"title" : "Full-Stack Web Development", 
