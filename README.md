@@ -3,6 +3,10 @@ Online Resume
 
 ===============================
 
+## Descricao
+Este projeto consiste em um currículo online onde é gerado de forma automatizada pelo Javascript a partir do momento que um usuário abra o site. Basicamente ele cria o currículo a partir de um script JS que combina as minhas informações pessoais com os templates HTML e CSS pré-elaboradas. Criado com uma sintaxe básica do Javascript para manipulação de dados, como loops e funções, ao mesmo tempo que utiliza métodos simples de manipulação de jQuery DOM. Além disso é usado uma API do Google Maps para exibir os locais onde vivi, estudei e trabalhei. Sua criação fez parte do curso “Conceitos Básicos de Javascript” desenvolvido pela Udacity.
+
+
 Go to this folder frontend-nanodegree-resume and call the folder index.html. 
 
 
