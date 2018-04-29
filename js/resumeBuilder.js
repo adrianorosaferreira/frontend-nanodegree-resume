@@ -2,7 +2,7 @@ var data = "%data%";
 
 var bio = {
 		"name" : "Adriano Ferreira", 
-		"role" : "Developer and System Analyst", 
+		"role" : "Developer", 
 		"welcomeMessage" : "\"Doubt is the principle of wisdom\"", 
 		"contacts" : {
 			"mobile" : "+55 (48) 98827-7554", 
@@ -74,21 +74,21 @@ var work = {
 	"jobs": [
 		{
 			"employer" : "Ibrowse", 
-			"title" : "System Analyst/ Fullstack Developer",
+			"title" : "Fullstack Developer",
 			"location" : "São José, SC, Brazil",
 			"dates" : "Sept. 2016 – Currently",
 			"description" : "Independently develop systems to support other analysts and/or developers maintenance of legacy systems of the Santa Catarina Court of Justice. Propose new solutions or functions based on customer requirements received and draw up plans in order tests to ensure the quality of routines and processes under my responsibility. Perform requirements gathering and lead the team to solution development. Create, monitor and execute the test plan, individually or in teams.Technologies: Angular JS, Bootstrap, Java, Caché."
 		},{
-			"employer" : "ArcTouch", 
-			"title" : "Quality Assurance Specialist",
-			"location" : "Florianópolis, SC, Brazil",
-			"dates" : "Jan 2016 – jun. 2016",
-			"description" : "My main functions are: to plan, conduct and monitor testing of products to ensure quality. Document internal audits and other quality assurance activities. Collect and compile statistical quality. Develop, recommend and monitor corrective and preventive actions. Develop sampling procedures and instructions for recording and reporting of quality data. Investigate customer complaints and non-compliance issues, among others"
-		},{
 			"employer" : "Conceitual", 
-			"title" : "System Analyst/ Tester",
+			"title" : "Developer",
 			"location" : "São José, SC, Brazil",
 			"dates" : "Oct. 2014 – Dec. 2015",
+			"description" : "Independently develop systems to support other analysts and / or developers for maintenance of legacy systems of the Santa Catarina Court of Justice. Propose new solutions or functions based on customer requirements received and draw up plans in order tests to ensure the quality of routines and processes under my responsibility. Perform requirements gathering and lead the team to solution development. Create, monitor and execute the test plan, individually or in teams. "
+		},{
+			"employer" : "Calcenter Calçados", 
+			"title" : "Java Developer",
+			"location" : "São José, SC, Brazil",
+			"dates" : "Mar. 2011 – July 2013",
 			"description" : "Independently develop systems to support other analysts and / or developers for maintenance of legacy systems of the Santa Catarina Court of Justice. Propose new solutions or functions based on customer requirements received and draw up plans in order tests to ensure the quality of routines and processes under my responsibility. Perform requirements gathering and lead the team to solution development. Create, monitor and execute the test plan, individually or in teams. "
 		}
 	],
